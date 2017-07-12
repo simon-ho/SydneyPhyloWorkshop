@@ -1,4 +1,4 @@
-# SydneyPhyloWorkshop
+# Sydney Phylogenetics Workshop
 
 This free 3-day workshop provides an introduction to phylogenetic analysis, including practical exercises based on the software MEGA and BEAST. It is suitable for graduate students and postdoctoral researchers. Prior knowledge of basic phylogenetics is helpful but not essential.
 

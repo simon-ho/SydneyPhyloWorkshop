@@ -6,4 +6,4 @@ The workshop comprises a series of lectures and practical exercises. The first d
 
 Workshop materials were written by Simon Ho, with input from various contributors over the years (including Rob Lanfear, Sebastian Duchene, David Duchene, Mark de Bruyn, and Nate Lo).
 
-The materials in this repository are from the most recent edition of the workshop, held in July 2018 at the University of Sydney. The next workshop will be held on 15–16 July 2019 at the University of Sydney. 
+The next workshop will be held on 15–16 July 2019 at the University of Sydney. 

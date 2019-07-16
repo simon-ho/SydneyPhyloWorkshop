@@ -4,6 +4,6 @@ This free 2-day workshop provides an introduction to phylogenetic analysis, incl
 
 The workshop comprises a series of lectures and practical exercises. The first day covers interpreting phylogenetic trees, molecular data, sequence alignment, evolutionary models, and phylogenetic methods. The second day provides an introduction to Bayesian phylogenetic analysis and includes Bayesian statistics, priors, and molecular dating.
 
-Workshop materials were written by Simon Ho, with input from various contributors over the years (including Rob Lanfear, Sebastian Duchene, David Duchene, Mark de Bruyn, and Nate Lo).
+Workshop materials were written by Simon Ho, with input from various contributors over the years (including Rob Lanfear, Sebastian Duchene, David Duchene, Mark de Bruyn, Nate Lo, and members of the Molecular Ecology, Evolution, and Phylogenetics research group at the University of Sydney).
 
-The next workshop will be held on 15–16 July 2019 at the University of Sydney. 
+The materials in this repository are from the most recent workshop, which was held on 15–16 July 2019 at the University of Sydney. 

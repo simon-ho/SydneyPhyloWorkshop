@@ -8,4 +8,4 @@ Workshop materials were written by Simon Ho, with input from various contributor
 
 The materials in this repository are from the most recent workshop, which was held on 15–16 July 2019 at the University of Sydney. The workshop was led by Simon Ho and David Duchene. 
 
-The 11th annual Sydney Phylogenetics Workshop will be held in July 2020. 
+The 11th annual Sydney Phylogenetics Workshop will be held in the second half of July 2020. 

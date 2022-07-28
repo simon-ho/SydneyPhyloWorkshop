@@ -8,5 +8,4 @@ The workshop comprises a series of lectures and practical exercises, held over t
 
 Most of the workshop materials were written by Simon Ho, with input from various contributors over the years (including Matt Phillips, Rob Lanfear, Sebastian Duchene, David Duchene, Mark de Bruyn, Nate Lo, and members of the [Molecular Ecology, Evolution, and Phylogenetics Lab](https://meep.sydney.edu.au/) at the University of Sydney). 
 
-Minh Bui contributed a talk on IQ-TREE and led a workshop tutorial on this software. The tutorial is available here:
-http://www.iqtree.org/workshop/sydney2022
+Minh Bui contributed a talk on IQ-TREE and led a [workshop tutorial on this software](http://www.iqtree.org/workshop/sydney2022).

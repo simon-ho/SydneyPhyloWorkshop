@@ -1,11 +1,9 @@
 # [Sydney Phylogenetics Workshop](https://meep.sydney.edu.au/workshops/)
 
-The materials in this repository are from the [13th annual Sydney Phylogenetics Workshop](https://meep.sydney.edu.au/workshops/), held as an online event on 27–29 July 2022. 
+The materials in this repository are from the [14th annual Sydney Phylogenetics Workshop](https://meep.sydney.edu.au/workshops/), held on 27–28 July 2023. 
 
-This 3-day online workshop provides an introduction to phylogenetic analysis, including practical exercises based on the software MEGA, IQ-TREE, BEAST 2, and ASTRAL. It is primarily aimed at early career researchers (research students and postdoctoral researchers). Prior knowledge of basic phylogenetics is very helpful but not essential.
+This 2-day workshop provides an introduction to phylogenetic analysis, including practical exercises based on the software MEGA, IQ-TREE, and BEAST 2. It is primarily aimed at early career researchers (research students and postdoctoral researchers). Prior knowledge of basic phylogenetics is very helpful but not essential.
 
-The workshop comprises a series of lectures and practical exercises, held over three days. Day 1 of the workshop provides an introduction to phylogenetics, covering evolutionary models, phylogenetic data, and phylogenetic analysis. Day 2 covers maximum-likelihood analysis using IQ-TREE and Bayesian phylogenetic analysis. Day 3 covers molecular dating and phylogenomics. 
+The workshop will comprise a series of lectures and practical exercises. Day 1 deals with interpreting phylogenetic trees, molecular evolution, phylogenetic data, sequence alignment, evolutionary models, phylogenetic methods, and phylogenomics. Day 2 provides an introduction to phylogenetic analysis using IQ-TREE, Bayesian phylogenetic analysis, and estimating timescales.
 
-Most of the workshop materials were written by Simon Ho, with input from various contributors over the years (including Matt Phillips, Rob Lanfear, Sebastian Duchene, David Duchene, Mark de Bruyn, Nate Lo, and members of the [Molecular Ecology, Evolution, and Phylogenetics Lab](https://meep.sydney.edu.au/) at the University of Sydney). 
-
-Minh Bui contributed a talk on IQ-TREE and led a [workshop tutorial on this software](http://www.iqtree.org/workshop/sydney2022).
+Most of the workshop materials were written by Simon Ho, with input from various contributors over the years (including Matt Phillips, Rob Lanfear, Sebastian Duchêne, David Duchêne, Mark de Bruyn, Nate Lo, Minh Bui, and members of the [Molecular Ecology, Evolution, and Phylogenetics Lab](https://meep.sydney.edu.au/) at the University of Sydney. 

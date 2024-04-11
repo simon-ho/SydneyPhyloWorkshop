@@ -11,3 +11,5 @@ Practical 2.1 "IQ-TREE 2 Workshop Tutorial", led by Fred Jaya, is available [her
 Lectures were given by Yasmin Asar, Simon Ho, and Fred Jaya. Teaching assistants included Karen López and Toby Kovacs.
 
 Most of the workshop materials were written by Simon Ho, with input from various contributors over the years (including Matt Phillips, Rob Lanfear, Sebastian Duchêne, David Duchêne, Mark de Bruyn, Nate Lo, Minh Bui, and members of the [Molecular Ecology, Evolution, and Phylogenetics Lab](https://meep.sydney.edu.au/) at the University of Sydney). 
+
+The next workshop will be held in late June 2024.

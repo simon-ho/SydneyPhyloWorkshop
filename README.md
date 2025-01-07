@@ -8,4 +8,4 @@ The workshop comprises a series of lectures and practical exercises. Day 1 deals
 
 Most of the workshop materials were written by Simon Ho, with input from various contributors over the years (including Matt Phillips, Rob Lanfear, Sebastian Duchêne, David Duchêne, Mark de Bruyn, Nate Lo, Minh Bui, and members of the [Molecular Ecology, Evolution, and Phylogenetics Lab](https://meep.sydney.edu.au/) at the University of Sydney). 
 
-The next workshop will be held in late 2025, most likely in hybrid format to allow remote attendees to watch the lectures.
+The next workshop will be held in late June or early July 2025, most likely in hybrid format to allow remote attendees to watch the lectures.
